@@ -21,7 +21,4 @@ my personal research and notes on crypto whales
 - Лучше заходить с ними, но не копировать слепо
 - Важно смотреть не только на вход, но и на объёмы
 
-## 📚 Полезные ссылки
-- [Lookonchain](https://twitter.com/lookonchain)
-- [DexScreener](https://dexscreener.com)
-- [HypurrScan](https://hypurrscan.io)
+
